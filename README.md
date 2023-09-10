@@ -1,12 +1,4 @@
-<!DOCTYPE html> 
-    <html lang="en">
-        <head>
-            <title>PS70 Portfolio Chris Ruiz</title>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            
-        </head>
-        <body>
+ <body>
             <h1 style="text-align: center;"><span style="color: #333399;"><strong>Chris Ruiz PS70: </strong></span><span style="color: #333399;"><strong>Intro to Digital Fabrication</strong></span></h1>
 <h2 style="text-align: center;"><span style="color: #333399;"><strong>Home&nbsp; &nbsp; About Me&nbsp; &nbsp; Final Project Proposal</strong></span></h2>
 <p>&nbsp;&nbsp;</p>
